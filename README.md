@@ -1,7 +1,7 @@
 # Team Name: Smart-Invest
 
 # Project Proposal
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub?embedded=true"></iframe>
+https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub
 
 # Weekly Progess Tracker
 
