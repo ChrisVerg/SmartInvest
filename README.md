@@ -1,5 +1,14 @@
 # Team Name: Smart-Invest
 
+# Weekly Progess Tracker
+
+{google_docs}http://www.example.com/docs/document.pdf{/google_docs}
+
+
+
+
+
+
 ## Project Summary
 
 The overall objective of this project is to create a comprehensive series of financial indicators focused on predicting the discount rate decisions of the Federal Open Market Committee (FOMC), as influenced by the performance of the S&P 500 index and its eleven constituent sectors. The project will be divided into six work streams to cater for six participating students, each with a unique focus to ensure all areas of the project are comprehensively covered. 
