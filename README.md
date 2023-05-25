@@ -1,15 +1,10 @@
 # Team Name: Smart-Invest
 
-# Project Proposal
-https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub
+# [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub)
 
-# Weekly Progess Tracker
+# [Weekly Progess Tracker](https://docs.google.com/document/d/1otYlXZGQOuErj6wqcJDgdAMNvc1aiSX3G2qUmoSyn_0/edit)
 
-https://docs.google.com/document/d/1otYlXZGQOuErj6wqcJDgdAMNvc1aiSX3G2qUmoSyn_0/edit
-
-# Trello Board
-
-https://trello.com/b/c62GpdyU/finalproject
+# [Trello Board](https://trello.com/b/c62GpdyU/finalproject)
 
 SmartInvest Overview:
 
