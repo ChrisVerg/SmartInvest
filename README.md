@@ -7,6 +7,7 @@
     * [3. Trello Board](https://trello.com/b/c62GpdyU/finalproject)
     * [3. Weekly Progess Tracker](https://docs.google.com/document/d/1otYlXZGQOuErj6wqcJDgdAMNvc1aiSX3G2qUmoSyn_0/edit)
     * Task Overview
+     * [4. Weekly Report](https://docs.google.com/presentation/d/e/2PACX-1vS2lW7KTaf_hAZC_-4rCSKMJ_0oZ41wmzGdyUndwoYWqk6-8q0v3ktpQ50bpxrz1q_aVM5rUcl9RlgV/pub?start=false&loop=false&delayms=5000)
 
 # [Project Summary](https://docs.google.com/document/d/e/2PACX-1vS2koiwsLNAS4hmAeIU0ZzCU9WfEm7t8t1MJ59l8e8D2eLDKqYbrc6lGTswZSGItSuSKNZFj9ch2RrV/pub)
 
@@ -81,3 +82,4 @@
 
 
 
+# [Weekly Report](https://docs.google.com/presentation/d/e/2PACX-1vS2lW7KTaf_hAZC_-4rCSKMJ_0oZ41wmzGdyUndwoYWqk6-8q0v3ktpQ50bpxrz1q_aVM5rUcl9RlgV/pub?start=false&loop=false&delayms=5000)
