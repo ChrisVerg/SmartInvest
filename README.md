@@ -1,8 +1,6 @@
 # Team Name: Smart-Invest
 
 
-### Table of Contents <a class="anchor" id="PSCRAPE_toc"></a>
-
 * [Table of Contents](#PSCRAPE_toc)
     * [1. Project Summary](link)
     * [2. Project Proposal](https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub)
