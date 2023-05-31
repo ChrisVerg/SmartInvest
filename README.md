@@ -47,13 +47,23 @@
 | SP500 Members | ID Factors and Data for Analysis  |  | X | X | X |  |   |   |
 | SP500 Members | Visualization of Data  |  |  |  | X | X |   |   |
 | SP500 Members | Cordinate Analsis and Data Uniformity  |  |  |  |  |  | X | X |
-| Finalize Sprint Tasks | Identify and Download Data |  |  |  |  |  | X | X |
+| All | Identify and Download Data |  |  |  |  |  | X | X |
 **Week 3: June 12 - June 18**
 
-| Task | M | T | W | Th | F | S | Su |
-|---|---|---|---|---|---|---|---|
-| S&P 500 Data Modeling | X | X | X | X | X | X | X |
-| Web Scraping and Sentiment Analysis | X | X | X | X | X | X | X |
+| Team Member | Task | M | T | W | Th | F | S | Su |
+|-------------|---|---|---|---|---|---|---|---|
+| All | Document Reason for Model Selection | X |  |  |  |  |   |   |
+| All | Wrangle and Prepare Data For Analysis |  | X | X | X |  |   |   |
+| All | Complete & Submit Assignments in LMS |  |  |  |  |  |  | X |
+| All | Document Main Steps in Analysis/Model Optimization |  |  |  |  | X | X | X |
+| Chris | Descriptive analysis of tectual data |  |  | X | X |  |  |  |
+| Chris | Implement & Optimize Model |  |  | X | X | X |   |   |
+| Chris | Host Team meeting for systhesis of projects | X |  | X |  | X |   |   |
+| Simondria | Prepare visualizations for weekly report |  | X | X | X |  |   |   |
+| Simondria | Implement Model and Plan for optimization |  |  |  |  | X | X |   |
+| SP500 Members | Present Data and Analysis for team sync  |  | X | X | X |  |   |   |
+| SP500 Members | Prepare visualization of data for weekly report  |  |  |  | X | X |   |   |
+| All | Finalize Sprint Tasks |  |  |  |  |  | X | X |
 
 **Week 4: June 19 - June 25**
 
