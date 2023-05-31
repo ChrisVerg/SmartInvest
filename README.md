@@ -39,10 +39,15 @@
 | All | Format Notebook | X |  |  |  |  |   |   |
 | All | Identify and Download Data | X | X | X |  |  |   |   |
 |   Chris   | Web Scraping | X | X | X |  |  |  |  |
-| Chris | Begin Automation of Web Scrape |  |  |  | X | X |   |   |
-| SP500 Members | Conduct Team Standard Analysis |  |  | X | X | X |   |   |
+| Chris | Begin Automation of Web Scrape |  | X | X |  |  |   |   |
+| Chris | ID model and Data for ML training |  |  |  | X | X |   |   |
+| Simondria | ID Factors and Data for Analysis |  | X | X | X |  |   |   |
+| Simondria | Visualization of Variables |  |  |  |  | X | X |   |
+| Simondria | Select Analysis and prep data |  |  |  |  |  |  | X |
+| SP500 Members | ID Factors and Data for Analysis  |  | X | X | X |  |   |   |
+| SP500 Members | Visualization of Data  |  |  |  | X | X |   |   |
+| SP500 Members | Cordinate Analsis and Data Uniformity  |  |  |  |  |  | X | X |
 | Finalize Sprint Tasks | Identify and Download Data |  |  |  |  |  | X | X |
-
 **Week 3: June 12 - June 18**
 
 | Task | M | T | W | Th | F | S | Su |
