@@ -48,6 +48,8 @@
 | SP500 Members | Visualization of Data  |  |  |  | X | X |   |   |
 | SP500 Members | Cordinate Analsis and Data Uniformity  |  |  |  |  |  | X | X |
 | All | Identify and Download Data |  |  |  |  |  | X | X |
+
+
 **Week 3: June 12 - June 18**
 
 | Team Member | Task | M | T | W | Th | F | S | Su |
