@@ -97,7 +97,7 @@
 | Team Member | Task | M | T | W | Th | F | S | Su |
 |-------------|---|---|---|---|---|---|---|---|
 | All | Final Project Presentation Syntax Grammar Review | X | X |  |  |  |   |   |
-| All | Final Project Presentation Practice Presentation | X | X |  |  |  |   |   |
+| All | Final ProjectS Practice Presentation | X | X |  |  |  |   |   |
 | All | Final Project Presentation |  |  | X |  |  |   |   |
 
 
