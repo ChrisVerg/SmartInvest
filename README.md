@@ -7,8 +7,7 @@
     * [3. Trello Board](https://trello.com/b/c62GpdyU/finalproject)
     * [3. Weekly Progess Tracker](https://docs.google.com/document/d/1otYlXZGQOuErj6wqcJDgdAMNvc1aiSX3G2qUmoSyn_0/edit)
     * Task Overview
-     * [4. Weekly Report](https://docs.google.com/presentation/d/e/2PACX-1vS2lW7KTaf_hAZC_-4rCSKMJ_0oZ41wmzGdyUndwoYWqk6-8q0v3ktpQ50bpxrz1q_aVM5rUcl9RlgV/pub?start=false&loop=false&delayms=5000)
-
+     
 # [Project Summary](https://docs.google.com/document/d/e/2PACX-1vS2koiwsLNAS4hmAeIU0ZzCU9WfEm7t8t1MJ59l8e8D2eLDKqYbrc6lGTswZSGItSuSKNZFj9ch2RrV/pub)
 
 # [Project Proposal](https://docs.google.com/document/d/e/2PACX-1vTzKFaD-gmkiiyhWRvGZRE6MDSxCHEmpiOZeRyB3UcNaPjGmtpM9-dgpua658xxrAEBWQC7FpokyM86/pub)
@@ -19,20 +18,19 @@
 
 
 # Task Overview 
-**Week 1: May 29 - June 4**
+**Week 1: May 22 - May 28**
 
 | Task | M | T | W | Th | F | S | Su |
 |---|---|---|---|---|---|---|---|
 | Team Assembly and Orientation | X | X |   |   |   |   |   |
 | Work Stream Assignment |   | X | X |   |   |   |   |
 | Project Framework Development |   | X | X | X | X |   |   |
-| Collaboration Platform Setup |   | X | X | X |   |   |   |
-| Progress Tracker Establishment |   |   | X | X | X |   |   |
+| Collaboration Platform Setup |   |   | X | X | X |   |   |
+| Progress Tracker Establishment |   |   |   | X | X | X | X |
 | Data Wrangling and Exploration |   |   |   |   | X | X | X |
 | Completion of Exeter LMS Assignments |   |   |   |   |   | X | X |
 
-
-**Week 2: June 5 - June 11**
+**Week 2: May 29 - June 4**
 
 | Team Member | Task | M | T | W | Th | F | S | Su |
 |-------------|---|---|---|---|---|---|---|---|
@@ -49,8 +47,7 @@
 | SP500 Members | Cordinate Analsis and Data Uniformity  |  |  |  |  |  | X | X |
 | All | Identify and Download Data |  |  |  |  |  | X | X |
 
-
-**Week 3: June 12 - June 18**
+**Week 3: June 05 - June 11**
 
 | Team Member | Task | M | T | W | Th | F | S | Su |
 |-------------|---|---|---|---|---|---|---|---|
@@ -67,36 +64,40 @@
 | SP500 Members | Prepare visualization of data for weekly report  |  |  |  | X | X |   |   |
 | All | Finalize Sprint Tasks |  |  |  |  |  | X | X |
 
-**Week 4: June 19 - June 25**
+**Week 4: June 12 - June 18** 
 
-| Task | M | T | W | Th | F | S | Su |
-|---|---|---|---|---|---|---|---|
-| S&P 500 Data Synthesis | X | X | X | X | X | X | X |
-| Web Scraping and Sentiment Analysis | X | X | X | X | X | X | X |
+| Team Member | Task | M | T | W | Th | F | S | Su |
+|-------------|---|---|---|---|---|---|---|---|
+| All | Develop Initial Overview for Presentation |  | X | X |  |  |   |   |
+| All | Standardize Naming Conventions |  |  |  | X | X |   |   |
+| All | Present Insights from Analysis |  |  |  |  | X | X |  |
+| Chris | Automate Sentiment Analysis |  |  | X | X |  |  |  |
+| Chris | Develop Presentation Outline |  |  |  |  | X |   |   |
+| Chris | Host Team meeting for systhesis of projects | X |  | X |  | X | X  |   |
+| Simondria | Prepare visualizations |  | X | X | X |  |   |   |
+| Simondria | Prepare to Present Analysis and Findings |  |  |  |  | X | X |   |
+| SP500 Members | Identify Variables for Synthesis of Data  |  | X | X | X |  |   |   |
+| SP500 Members | Prepare visualization of data for synthesis |  |  |  | X | X |   |   |
+| All | Documentation Meeting |  |  | X |  |  |  |  |
+| All | Finalize Sprint Tasks |  |  |  |  |  | X | X |
+| All | Complete & Submit Assignments in LMS |  |  |  |  |  |  | X |
 
-**Week 5: June 26 - July 2**
+**Week 5: June 19 - June 25**
 
-| Task | M | T | W | Th | F | S | Su |
-|---|---|---|---|---|---|---|---|
-| Presentation Development | X | X | X | X | X | X | X |
-| Finalize Details | X | X | X | X | X | X | X |
+| Team Member | Task | M | T | W | Th | F | S | Su |
+|-------------|---|---|---|---|---|---|---|---|
+| Chris| Implement Presentation Framework and Flow | X | X |  |  |  |   |   |
+| All | Complile all Presentation Material | X |  |  |  |  |   |   |
+| All | Combine Presentation Material |  | X | X | X |  |  |  |
+| All | Document Main Steps in Analysis |  | X | X |  |  |  |  |
+| All | Practice Presentation | X |  | X |  | X |  |  |
 
-**Week 6: July 3 - July 9**
+**Week 6: June 26 - July 2**
 
-| Task | M | T | W | Th | F | S | Su |
-|---|---|---|---|---|---|---|---|
-| Presentation Preparation | X | X | X | X |   |   |   |
-| Review and Quality Assurance | X | X | X | X |   |   |   |
-| Delivery |   |   |   |   | X |   |   |
-
-**Week 6: July 3 - July 9 (Continuation)**
-
-| Task | M | T | W | Th | F | S | Su |
-|---|---|---|---|---|---|---|---|
-| Practice Presentation | X | X | X | X |   |   |   |
-| Compile all project documentation | X | X | X | X |   |   |   |
-| Delivery |   |   |
+| Team Member | Task | M | T | W | Th | F | S | Su |
+|-------------|---|---|---|---|---|---|---|---|
+| All | Final Project Presentation Syntax Grammar Review | X | X |  |  |  |   |   |
+| All | Final Project Presentation Practice Presentation | X | X |  |  |  |   |   |
+| All | Final Project Presentation |  |  | X |  |  |   |   |
 
 
-
-# [Weekly Report](https://docs.google.com/presentation/d/e/2PACX-1vS2lW7KTaf_hAZC_-4rCSKMJ_0oZ41wmzGdyUndwoYWqk6-8q0v3ktpQ50bpxrz1q_aVM5rUcl9RlgV/pub?start=false&loop=false&delayms=5000)
