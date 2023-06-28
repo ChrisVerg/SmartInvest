@@ -1,4 +1,6 @@
-# Team Name: Smart-Invest
+# Team Name: SmartInvest
+
+Thank you for reviewing our project. During this project, I served as project manager. I led my team of fellow students to develop the groundwork for a tool to generate market intelligence and insights using free data. Below you will find links to key parts of the project analyzing Federal Reserve Economic Data (FRED), S&P 500 Sector data, and Web Scraping of financial news headlines and sentiment analysis.  
 
 
 * [Project Items](#PSCRAPE_toc)
@@ -8,7 +10,10 @@
     * [4. Developing Web Scraping Capability (Christian Verges) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/Chris_SmarInvestWebScrape.ipynb)
     * [5 Automating the Web Scraping  (Christian Verges) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/Chris_Automated_Data_Collection.ipynb)
     * [6. Sentiment Analysis  (Christian Verges) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/Chris_Sentiment_Analysis.ipynb)
-    * Task Overview
+    * [7. S&P 500 Analysis (Jesus Cruz) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/SP500SynthesisGuide_JC.ipynb)
+    * [8. S&P 500 Analysis (Israel Garcia) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/SP500SynthesisGuide_IG.ipynb)
+    * [9. S&P 500 Analysis  (Jorge Vido) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/SP500SynthesisGuide_JV.ipynb)
+    * [10. FRED Analysis  (Samondria Wilson) ](https://github.com/ChrisVerg/SmartInvest/blob/main/Notebooks/Samondria_reference.ipynb)
      
 
 
